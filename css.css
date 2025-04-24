@@ -1,0 +1,67 @@
+body{
+    background:linear-gradient(to left ,skyblue,lightgreen);  
+    color: black(16, 231, 231);
+    font-style: italic;
+    margin: auto;
+}
+.page{
+    margin: auto;
+    width:  100vw;
+    height:700px;
+}
+.p1{
+
+    margin-left: 10px;
+    background-image: url(/aa.jpg);
+    background-size: right;
+    background-position: right;
+    background-position: right;
+     
+     margin-right: -auto;
+     height: 900px;
+     background-repeat: no-repeat;
+}
+ 
+.p11{
+    margin-left: 10px;
+     
+    font-family: "Press start 2P";
+    font-size: 50px;
+    color: rgb(0, 0, 0);
+    font-style: bold;
+}
+.a{
+     
+    color: black;
+     
+    margin-left: auto;
+    text-align: left;
+    margin-left: 10px;
+    
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-weight: 100;
+    font-stretch: condensed;
+}
+
+.intro{
+    background-attachment: skyblue;
+}
+ 
+.c{
+    background-color: palevioletred;
+    font-size: 100px;
+} 
+
+
+.tech{
+    margin: auto;
+    width:  100vw;
+    height:700px;
+}
+
+.contact{
+    margin: auto;
+    width:  100vw;
+    height:700px;
+}
